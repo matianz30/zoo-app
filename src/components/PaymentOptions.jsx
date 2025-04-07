@@ -40,7 +40,7 @@ const PaymentOptions = ({ ticketData, onNext }) => {
           Kreditkarte
         </button>
         <button onClick={() => setPaymentMethod('paypal')}>
-          <img src="https://via.placeholder.com/50" alt="Paypal" />
+          <img src="https://via.placeholder.com/50" alt="Pay-Pal" />
           Paypal
         </button>
       </div>

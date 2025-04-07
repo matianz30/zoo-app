@@ -3,8 +3,8 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header className="header">
-      <div className="menu-icon">☰</div>
+    <header className="Header">
+      <div className="Menu-icon">☰</div>
       <h1 className="logo">ZOO!!</h1>
     </header>
   );
